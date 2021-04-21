@@ -26,7 +26,7 @@ const float PI = 3.141592;
 
 int main() {
 	printf("Introduce radius of the sphere : ");
-  scanf("%f",&r);
+	scanf("%f",&r);
 	
 	volume = (4/3) * PI * (radius * radius * radius);  /* volumn=(4/3) * pi * r^3*/
 	printf("The volume of sphere is %f.\n", volume);
@@ -63,7 +63,8 @@ int main()
 {
 	printf("Introduce kilometers per hour: ");
 
-	mi/h = (km/h * 0.6213712);
+mi/h = (km/h * 0.6213712);
+	
 	printf("%f miles per hour\n", miph);
 
 	return(0);
