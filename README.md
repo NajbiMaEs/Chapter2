@@ -1,4 +1,4 @@
-# Chapter2
+# Chapter5
 Exercises from Chapter 5 of the book "Practical C Programming"
 ## Exercise 5-1: Write a program that converts Centigrade to Fahrenheit.
 
